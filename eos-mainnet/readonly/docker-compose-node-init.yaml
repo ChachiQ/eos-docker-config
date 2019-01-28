@@ -11,5 +11,5 @@ services:
     expose:
       - "8888"
     volumes:
-      - /data/eos/nodeos-data-volume/nodeos-data-bosmainnet/config:/etc/nodeos
-      - /data/eos/nodeos-data-volume/nodeos-data-bosmainnet/data:/data
+      - /data/eos/nodeos-data-volume/nodeos-data-eosmainnet/config:/etc/nodeos
+      - /data/eos/nodeos-data-volume/nodeos-data-eosmainnet/data:/data
